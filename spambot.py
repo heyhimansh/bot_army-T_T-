@@ -5,4 +5,3 @@ for word in open("script.txt", "r"):  #Location of script,lyrics or whatever loa
     pyautogui.typewrite(word) #This will write words in the line
     pyautogui.press("enter") #This will change the line
     
-    
