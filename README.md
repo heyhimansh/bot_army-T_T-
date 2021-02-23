@@ -12,6 +12,7 @@
   <a href="https://open.spotify.com/user/31zeqffddar3axjbc4koafautcgq?si=y-OSp3gSRcSjPhdb7T5Fgw">
     <img align="left" alt="Himanshu's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
+  
   ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=heyhimansh&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 
