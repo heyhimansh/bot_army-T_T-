@@ -13,6 +13,8 @@
     <img align="left" alt="Himanshu's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
 
+# If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
+
 
 This spambot consists only of 5 lines of python code ...
 
