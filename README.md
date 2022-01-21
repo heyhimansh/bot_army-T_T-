@@ -16,7 +16,7 @@
   ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=heyhimansh&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 
-# If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
+
 
 
 This spambot consists only of 5 lines of python code ...
