@@ -10,7 +10,7 @@
     <img align="left" alt="Himanshu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
   <a href="https://open.spotify.com/user/31zeqffddar3axjbc4koafautcgq?si=y-OSp3gSRcSjPhdb7T5Fgw">
-    <img align="left" alt="Himanshu's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+    <img align="left" alt="Himanshu's Spotify" width="22px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" />
   </a>
   
   ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=heyhimansh&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
