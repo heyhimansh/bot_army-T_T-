@@ -1,5 +1,5 @@
 # Spambot_by_python
-### Hey there ![image](https://user-images.githubusercontent.com/72097380/176737188-5e83334b-5c8a-40bf-a814-38addac58e04.png)
+### Hey there ![image](https://user-images.githubusercontent.com/72097380/176737457-81afc685-d7cb-42c1-8976-c0da943f561b.png)
 <a href="https://discord.com/channels/@me">
     <img align="left" alt="Himanshu's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
   </a>
@@ -14,7 +14,7 @@
   </a>
   
   ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=heyhimansh&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
-![image](https://user-images.githubusercontent.com/72097380/176737188-5e83334b-5c8a-40bf-a814-38addac58e04.png)
+
 
 
 
