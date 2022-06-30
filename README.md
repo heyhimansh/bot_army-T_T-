@@ -1,5 +1,5 @@
 # Spambot_by_python
-### Hey there ![image](https://user-images.githubusercontent.com/72097380/176737606-d47b6daa-76cd-4008-9b90-232b1b8ff494.png)
+### Hey there <img src= "(https://user-images.githubusercontent.com/72097380/176737606-d47b6daa-76cd-4008-9b90-232b1b8ff494.png)" width ="22px">
 
 <a href="https://discord.com/channels/@me">
     <img align="left" alt="Himanshu's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
